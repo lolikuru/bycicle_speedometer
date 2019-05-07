@@ -1,4 +1,4 @@
-# Arduino bycicle speedometer
+# Arduino bycicle speedometer project
 Arduino ssd1306 bycicle speedometr
 
 
