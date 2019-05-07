@@ -5,7 +5,7 @@ Arduino ssd1306 bycicle speedometr
 ### Used hardwares:
 * Atmega328
 * ssd1306 128x32pix display 
-* max471 sheld for volt and ampermetr
+* max471 sheld for voltmetr and ampermetr
 * halls sensor
 * light sensor
 
